@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "str_handler.h"
+#include "main_work.h"
 
 #define error(...) (fprintf(stderr, __VA_ARGS__))
 #define NUMBER_OF_PARAMS 2
