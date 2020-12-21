@@ -1,6 +1,6 @@
 #include <string.h>
 #include <stdlib.h>
-#include "str_handler.h"
+#include "main_work.h"
 
 void adding_slash_n_symbol(char* line)
 {
